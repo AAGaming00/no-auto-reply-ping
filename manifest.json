@@ -1,0 +1,7 @@
+{
+    "name": "Turn Off Replies Ping by Default",
+    "description": "Makes the default ping status for replies '@ OFF'.",
+    "version": "1.0.0",
+    "author": "Winston#0441",
+    "license": "MIT"
+}
