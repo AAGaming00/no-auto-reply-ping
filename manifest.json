@@ -1,7 +1,7 @@
 {
-    "name": "Turn Off Replies Ping by Default",
+    "name": "Begone Reply Auto-Ping!",
     "description": "Makes the default ping status for replies '@ OFF'.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Winston#0441",
     "license": "MIT"
 }
