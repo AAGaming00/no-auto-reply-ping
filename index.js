@@ -1,6 +1,6 @@
 const { Plugin } = require("powercord/entities");
 const { inject, uninject } = require("powercord/injector");
-const { React, getModule } = require("powercord/webpack");
+const { getModule } = require("powercord/webpack");
 
 module.exports = class NoAutoReplyPing extends Plugin {
     async startPlugin() {
